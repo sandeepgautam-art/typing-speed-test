@@ -50,14 +50,4 @@ You can also customize each run by specifying the following options as:
 
 You can quit mitype anytime by pressing the `ESC` key or `CTRL-C`.
 
-You can also directly [run on repl.it](https://mitype.mithil467.repl.run/) in your web browser although, the latency is pretty high.
 
-## 💚 Contributing
-
-We encourage you to contribute to mitype! Please check out the [Contributing Guidelines](CONTRIBUTING.md) about how to proceed.
-
-## 📜 License
-
-Licensed under the [GPL](LICENSE.txt) license.
-
-Text samples in database are collected from [Typeracer Data](http://typeracerdata.com/texts).
